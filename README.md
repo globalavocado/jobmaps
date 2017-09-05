@@ -1,5 +1,8 @@
 # jobmaps
 ## find a GIS job in Europe
+
+<img src="https://github.com/globalavocado/jobmaps/blob/master/images/screenshot.png" alt="screenshot" width="75%" height="75%">
+
 I made this little web page to make it easier for myself to visualise job locations while searching different European countries at the same time. The vacancy maps are:
 
 - Austria
