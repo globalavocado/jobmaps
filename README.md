@@ -17,7 +17,7 @@ Thanks to [Geolicious](http://www.geolicious.de/) for creating the jobmaps app o
 
 ### technologies used:
 - HTML / CSS ([flat-ui](http://designmodo.github.io/Flat-UI/), still my favourite bootstrap!)
-- javasript, for the back-to-top button
+- javascript, for the back-to-top button
 
 ### project status:
 fully functional as it is :ghost:
